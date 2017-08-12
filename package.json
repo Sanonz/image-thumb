@@ -1,0 +1,14 @@
+{
+  "name": "image-thumb",
+  "version": "1.0.0",
+  "description": "make image thumb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thumb"
+  ],
+  "author": "Sanonz <sanonz@126.com>",
+  "license": "ISC"
+}
